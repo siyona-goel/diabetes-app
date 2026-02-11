@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import streamlit as st
 import numpy as np
-import seaborn as sns
 
 st.set_page_config(
     page_title="Diabetes Dashboard",
